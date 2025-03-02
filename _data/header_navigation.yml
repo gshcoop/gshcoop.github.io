@@ -1,0 +1,10 @@
+list_title: Header Navigation
+links:
+  - title: Home
+    url: /
+  
+  - title: Contact
+    url: /contact
+
+  - title: FAQ
+    url: /faq
