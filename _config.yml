@@ -23,7 +23,7 @@ email: glasgowstudenthousingcoop@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Member of Student Co-op Homes #NoMoreLandlords
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gshcoop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://glasgowstudenthousingcoop.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gshcoop
 
 # Build settings
