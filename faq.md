@@ -25,15 +25,9 @@ Our members also like to meet more socially, for dinner at one of our flats, or 
 
 We do not have a house yet. We have worked to secure funding though, so we will be housed in the coming months! To move in, you will need to follow our application process which would include becoming a member/director of the co-operative. 
 
-DO I HAVE TO BE A STUDENT TO GET INVOLVED?
+## DO I HAVE TO BE A STUDENT TO GET INVOLVED?
 
 Yes, you do have to be a full or part-time student over 18. Being a student, prospective student or recent graduate (less than a year) is a condition of membership and living in the co-op once we are housed. However, we are always looking for people who are interested and willing to give some of their time to the co-op, even if they aren’t students – so please don’t hesitate to contact us if you want to do so!
-
-## HOW CAN I GET INVOLVED? ARE YOUR MEETINGS PUBLIC?
-
-We hold regular meetings and events which are usually open to the public and you can come along and find out from there! Keep an eye on our Facebook page – that’s where we advertise our public meetings and events. Also feel free to send us a message on Facebook, Twitter or email us at glasgowstudenthousingcoop@gmail.com for more information.
-
-We welcome new members all the time. If you see a meeting/social event advertised on our Facebook, then it is public! It occasionally happens that we go a while without holding a public meeting or event, if we’re really busy either with co-op work or uni work (as all our members are full-time students too!) so if that appears to be the case send us a message and we’ll be able to let you know when the next one is.
 
 ## CAN YOU HELP ME FIND HOUSING?
 
