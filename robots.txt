@@ -1,0 +1,7 @@
+User-agent: *
+Dissallow: /assets/
+
+User-agent: Googlebot
+Allow: /asets/
+
+Sitemap: https://glasgowstudenthousingcoop.org/sitemap.xml

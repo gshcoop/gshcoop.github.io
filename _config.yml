@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Glasgow Student Housing Co-operative
-email: glasgowstudenthousingcoop@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Member of Student Co-op Homes #NoMoreLandlords
+  Organising for and providing democratic housing to students in Glasgow. Member of Student Co-operative Homes. #NoMoreLandlords
+tagline:
+  Organising for democratic student housing in Glasgow.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glasgowstudenthousingcoop.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gshcoop
@@ -29,10 +30,12 @@ github_username: gshcoop
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 
 minima:
@@ -46,17 +49,26 @@ list_posts: true
 paginate: false
 date_format: '%d-%m-%Y'
 
-logo: /assets/logo.webp
-
 github:
   is_project_page: false
   is_user_page: true
 
 show_navigation: true
 
+# SEO and social info
+logo: /assets/logo.webp
 instagram:  "https://www.instagram.com/glasgowstudenthousingcoop/"
-facebook:   "http://facebook.com/glasgowstudenthousingcoop"
-twitter:    "https://twitter.com/GSHCoop"
+twitter:    
+  username: GSHCoop
+  card: summary
+facebook:
+  publisher: "https://facebook.com/glasgowstudenthousingcoop"
+social:
+  links:
+    - "https://www.instagram.com/glasgowstudenthousingcoop/"
+    - "https://twitter.com/GSHCoop"
+    - "https://facebook.com/glasgowstudenthousingcoop"
+locale: en_GB
 
 # Exclude from processing.
 # The following items will not be processed, by default.
