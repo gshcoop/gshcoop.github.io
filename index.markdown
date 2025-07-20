@@ -3,7 +3,9 @@ layout: default
 title: About Us
 ---
 
-We are a group of university students setting up the first student housing co-op in Glasgow. We were formed in November 2016, and have recently secured funding to manage our first property, owned on our behalf by Student Co-operative Homes. We welcome students who are at university, college and in apprenticeships.
+{% include latest.html %}
+
+We are Glasgow’s first student housing cooperative, gearing up to house 5 students following [our recent property acquisition]({% post_url 2025-07-20-glasgow-student-housing-cooperative-acquires-property %}). We welcome students who are at university, college and in modern apprenticeships.
 
 We believe that a housing co-op is an effective way to combat increasing rent prices, and provide a democratically controlled living environment. Collectively, members of a co-op take on the role of landlord and have a direct say in their living conditions.
 
