@@ -103,7 +103,7 @@ li.post {
     margin: auto 10px 0 10px;
   }
   .post-link {
-    text-decoration: none;
+    text-decoration: underline;
     color: #000; // todo: use theme colors
     flex-grow: 2;
   }

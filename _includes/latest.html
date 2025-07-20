@@ -2,7 +2,10 @@
     {%- for post in site.posts limit:1 -%}{% unless post.hidden %}
         <li class="post">
             {% if post.image %}<img class="post-img" src="{{ post.image }}" />{% endif %}
-            <a href="{{ post.url | relative_url }}"><h3>{{ post.title | escape }}</h3></a>
+            <a href="{{ post.url | relative_url }}">
+                <h3>{{ post.title | escape }}</h3>
+                <span class="post-meta">Click to read more</span>
+            </a>
             <span class="post-meta">{{ post.date | date: site.date_format }}</span>
         </li>
     {% endunless %}{%- endfor -%}
