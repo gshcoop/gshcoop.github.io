@@ -3,11 +3,7 @@ layout: post
 title: "Press Release: Scotmid back the next generation of co-operators during the UN International Year of Co-operatives 2025"
 date: 2025-07-20 22:00:00 +0100
 
-<<<<<<< HEAD
-image:/media/2025/07/Glasgow Student Housing Co-op press release.pdf
-=======
 image: /media/2025/07/DSC_02061.jpg
->>>>>>> 16563ef (Fix latest post excerpt and links in post)
 
 ---
 
