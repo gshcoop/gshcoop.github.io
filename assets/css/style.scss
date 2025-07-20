@@ -93,12 +93,14 @@ ul#latest {
 li.post {
   display: flex;
   flex-direction: row;
+  gap: 10px;
   
   box-shadow: 0px 2px 38px rgba(0, 0, 0, 0.2);
   width: 100%;
   
   .post-meta {
     color: grey;
+    margin: auto 10px 0 10px;
   }
   .post-link {
     text-decoration: none;

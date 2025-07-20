@@ -3,17 +3,21 @@ layout: post
 title: "Press Release: Scotmid back the next generation of co-operators during the UN International Year of Co-operatives 2025"
 date: 2025-07-20 22:00:00 +0100
 
+<<<<<<< HEAD
 image:/media/2025/07/Glasgow Student Housing Co-op press release.pdf
+=======
+image: /media/2025/07/DSC_02061.jpg
+>>>>>>> 16563ef (Fix latest post excerpt and links in post)
 
 ---
 
 *The following is a press release published by Student Cooperative Homes and Scottish Midland Co-operative Society, published here for your reading*
 
-[Download as PDF](/media/2025/09/Glasgow Student Housing Co-op press release.pdf)
+[Download as PDF]({% link /media/2025/07/Glasgow Student Housing Co-op press release.pdf %})
  
 Scotmid back the next generation of co-operators during the UN International Year of Co-operatives 2025 
 
-![Image showing the members of Glasgow Student Housing Cooperative in 2025](/media/2025/09/DSC_02061.jpg "Back row: Aidan Ferrier, Rachel Lyndon, Amrou Motawa Front row: Emil Carr-Ross, Christopher Fleming, May Armstrong|)
+![Image showing the members of Glasgow Student Housing Cooperative in 2025](/media/2025/07/DSC_02061.jpg "Back row: Aidan Ferrier, Rachel Lyndon, Amrou Motawa Front row: Emil Carr-Ross, Christopher Fleming, May Armstrong")
 
 Scotmid Co-operative has contributed a total of £300,000 in loan and share capital investment in Student Co-op Homes to support the purchase of a traditional flatted property in South West Glasgow--securing the first home for the Glasgow Student Housing Co-operative (GSHC). The property will be tenanted by students and run democratically by its residents, offering a fair, community-led alternative to soaring private rents. 
 
