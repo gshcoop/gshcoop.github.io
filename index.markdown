@@ -5,6 +5,9 @@ title: About Us
 
 {% include latest.html %}
 
+## Want to live with us? Apply online at the following link: [https://forms.gle/y4CvageWWfgXfbQE6](https://forms.gle/y4CvageWWfgXfbQE6)
+
+
 We are Glasgow’s first student housing cooperative, gearing up to house 5 students following [our recent property acquisition]({% post_url 2025-07-20-glasgow-student-housing-cooperative-acquires-property %}). We welcome students who are at university, college and in modern apprenticeships.
 
 We believe that a housing co-op is an effective way to combat increasing rent prices, and provide a democratically controlled living environment. Collectively, members of a co-op take on the role of landlord and have a direct say in their living conditions.
